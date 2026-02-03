@@ -1,0 +1,13 @@
+ShopEase is an online e-commerce platform that sells electronics, home appliances, and accessories.
+
+The platform provides customer support through a chatbot that handles order tracking, returns, refunds, and warranty-related queries. The chatbot retrieves information from internal policy documents and generates responses using a language model.
+
+Orders can be returned within 7 days of delivery for most products. However, certain categories such as earphones, personal grooming devices, and clearance items are non-returnable unless they are defective.
+
+Refunds for prepaid orders are processed within 5–7 business days after the returned item passes quality inspection. For cash-on-delivery orders, refunds are issued via bank transfer and may take 7–10 business days.
+
+Warranty coverage varies by product type. Mobile phones and laptops typically include a 1-year manufacturer warranty, while accessories may have only 6 months of warranty or no warranty at all.
+
+If a customer reports a defective product within 48 hours of delivery, the chatbot is allowed to initiate a replacement request without human approval. After 48 hours, the issue must be escalated to a support agent.
+
+The chatbot must not make promises outside official policy. If a customer asks for exceptions, the system should respond with a polite refusal and suggest contacting human support.
